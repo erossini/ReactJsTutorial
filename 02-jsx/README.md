@@ -15,7 +15,15 @@ https://github.com/marak/Faker.js/
 ```
 npm install --save faker
 ```
+# Results
 
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/components.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Create%20a%20reusable%20configurable%20component.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Props.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/CommentDetail%20property.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20hierachy.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20hierachy%20example.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20ApprovalCard.png)
 
 # How can I create this project?
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
