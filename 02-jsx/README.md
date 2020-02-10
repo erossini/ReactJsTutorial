@@ -1,6 +1,44 @@
+# What are you doing in this code?
+
 - Create a component and use it in the App
 - React's Props (short for properties) System
 - Component Reuse
+
+A `React` component is:
+- **nesting**: can be shown inside of another
+- **reusability**: we want to make components that can be easily reused through out application
+- ** configuration**: we should be able to configure a component when it is created
+
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/components.png)
+
+For creating a resuable and configurable component, we have to:
+
+- identify the JSK that appears to be duplicated
+- what is the purpose of that block of JSK? Think of a descriptive name of what it does
+- create a new file to house this new component - it should have the same name as the component
+- create a new component in the new file, paste the JSX into it
+- make the new component configurable by using `React`'s `Props` system
+
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Create%20a%20reusable%20configurable%20component.png)
+
+## Props
+
+Props (short for properties) is the system for passing data from a **parent** component to a **child** component. Every component must be customizable and configurable.
+
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Props.png)
+
+To pass a prop to a component, we use the usual syntax of xml. Here an example:
+
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/CommentDetail%20property.png)
+
+From the `App` we add 3 times our component called `CommentDetail` and for each we pass an `author` tag.
+
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20hierachy.png)
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20hierachy%20example.png)
+
+An example of reusable component is `ApprovalCard` where we inject a `CommentDetail`.
+
+![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20ApprovalCard.png)
 
 # Dependecies
 
@@ -15,15 +53,6 @@ https://github.com/marak/Faker.js/
 ```
 npm install --save faker
 ```
-# Results
-
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/components.png)
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Create%20a%20reusable%20configurable%20component.png)
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Props.png)
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/CommentDetail%20property.png)
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20hierachy.png)
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20hierachy%20example.png)
-![](https://github.com/erossini/ReactJsTutorial/blob/master/02-jsx/Schemas/Component%20ApprovalCard.png)
 
 # How can I create this project?
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
