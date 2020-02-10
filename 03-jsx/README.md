@@ -33,4 +33,4 @@ npx create-react-app seasons
 
 # Dependecies
 
-![Mozilla Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+[Mozilla Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
