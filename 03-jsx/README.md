@@ -86,5 +86,9 @@ npx create-react-app seasons
 
 # Dependecies
 
+<<<<<<< HEAD
 ![Mozilla Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 ![Babeljs](https://babeljs.io/) to try how your code looks like with different implementation of javascript
+=======
+[Mozilla Geolocation API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
+>>>>>>> 6392dd4c690150dafbcd21fe0b537bea6bf23727
