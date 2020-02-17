@@ -15,3 +15,7 @@ Show images based on the user input from a real API
 
 ## 06-jsx
 Play video from YouTube (reading YoutTube API) based on the user input
+
+## 07-Redux
+
+## 08-ReactRedux
