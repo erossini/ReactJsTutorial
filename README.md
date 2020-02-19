@@ -19,3 +19,6 @@ Play video from YouTube (reading YoutTube API) based on the user input
 ## 07-Redux
 
 ## 08-ReactRedux
+
+## 09-ReduxThunk
+I show how to use React with Redux and explain what **Redux Thunk** is. Also, I implement reducers and calls to external APIs

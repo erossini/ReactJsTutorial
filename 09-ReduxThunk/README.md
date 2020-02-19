@@ -55,6 +55,6 @@ npm install --save redux react-redux axios redux-thunk
 
 # Bad and good ways to mutate an array
 
-![Mutate an array](https://github.com/erossini/ReactJsTutorial/blob/master/09-ReduxThunk/images/dependecies-explain.png)
+![Mutate an array](https://github.com/erossini/ReactJsTutorial/blob/master/09-ReduxThunk/images/good_update_object.png)
 
 [Lodash](https://lodash.com/): a modern JavaScript utility library delivering modularity, performance & extras. Easy way to work with objects and arrays
