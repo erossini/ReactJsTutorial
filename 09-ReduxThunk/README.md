@@ -46,9 +46,16 @@ Also we have to install some dependecies.
 - React-Redux
 - Redux-Thunk
 - Axios
+- Lodash
 
 ```
 npm install --save redux react-redux axios redux-thunk
+```
+
+I'm using Lodash to save the requests to user api because I want to use `memoize`.
+
+```
+npm install --save lodash
 ```
 
 ![Dependecies explain](https://github.com/erossini/ReactJsTutorial/blob/master/09-ReduxThunk/images/dependecies-explain.png)
