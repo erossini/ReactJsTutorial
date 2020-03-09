@@ -4,7 +4,7 @@
 
 - Redux Form (https://redux-form.com/)
 
-![Redux Form](https://github.com/erossini/ReactJsTutorial/blob/master/10-twitchTV/images/reduxform.png)
+![Redux Form](https://github.com/erossini/ReactJsTutorial/blob/master/10-TwitchTV/images/reduxform.png)
 
 ```
 npm install --save redux-form
@@ -12,11 +12,11 @@ npm install --save redux-form
 
 ## Redux architecture design
 
-![Redux architecture design](https://github.com/erossini/ReactJsTutorial/blob/master/10-twitchTV/images/redux-architecture-design-for-oauth.png)
+![Redux architecture design](https://github.com/erossini/ReactJsTutorial/blob/master/10-TwitchTV/images/redux-architecture-design-for-oauth.png)
 
 # Redux Dev Tools
 
-(https://github.com/zalmoxisus/redux-devtools-extension)[]
+[Redux Tools Download](https://github.com/zalmoxisus/redux-devtools-extension)
 
 # Debug mode with Redux Dev Tools
 
