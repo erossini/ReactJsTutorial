@@ -10,6 +10,12 @@
 npm install --save redux-form
 ```
 
+## json Server
+
+- json server (http://npmjs.com/package/json-server) get a full fake REST API with zero coding in less than 30 seconds (seriously). Created with <3 for front-end developers who need a quick back-end for prototyping and mocking.
+
+![Api Method](https://github.com/erossini/ReactJsTutorial/blob/master/10-TwitchTV/images/api-methods.png)
+
 ## Redux architecture design
 
 ![Redux architecture design](https://github.com/erossini/ReactJsTutorial/blob/master/10-TwitchTV/images/redux-architecture-design-for-oauth.png)
