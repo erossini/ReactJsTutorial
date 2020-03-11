@@ -9,6 +9,18 @@
       "title": "Other stream",
       "description": "Here is some stream",
       "id": 2
+    },
+    {
+      "title": "Stream with userId",
+      "description": "This is a new stream with userId",
+      "userId": "109883749339237875514",
+      "id": 3
+    },
+    {
+      "title": "Try to create a new stream",
+      "description": "You should not see this on the form page!",
+      "userId": "109883749339237875514",
+      "id": 4
     }
   ]
 }
